@@ -8,7 +8,7 @@ package:
 
 dependencies:
   fpnew: { git: "https://github.com/pulp-platform/fpnew.git", version: 0.6.4 }
-  riscv: { git: "git@iis-git.ee.ethz.ch:darkside/riscv.git", rev: "c736e836af55dd911a141adb0119f788c0d82aac"}
+  riscv: { git: "git@iis-git.ee.ethz.ch:darkside/riscv.git", rev: "d5bd2e61178d24db71fcd67d83790b8612c9f56b"}
 
 sources:
   # Source files grouped in levels. Files in level 0 have no dependencies on files in this
